@@ -1,0 +1,3 @@
+*.tar.gz !text !filter !merge !diff
+cifar-10-batches-py !text !filter !merge !diff
+cifar-100-python !text !filter !merge !diff
