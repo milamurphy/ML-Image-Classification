@@ -37,9 +37,10 @@ Thumbs.db
 htmlcov/
 .env
 .env.local
-
-# Large dataset files (download separately)
 *.tar.gz
 cifar-10-batches-py/
 cifar-100-python/
 data/
+test.p
+train.p
+valid.p
