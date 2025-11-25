@@ -44,4 +44,5 @@ data/
 test.p
 train.p
 valid.p
+train_balanced.p
 cv_env
