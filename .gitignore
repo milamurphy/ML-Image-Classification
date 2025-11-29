@@ -45,4 +45,6 @@ test.p
 train.p
 valid.p
 train_balanced.p
+train_augmented.p
+val_augmented.p
 cv_env
